@@ -1,0 +1,15 @@
+First install the package.
+
+Then require it in your code like this.
+
+
+eg:- const any_namehere = require("npm-basic-math-calc");
+
+
+
+Then just call the function by passing the 2 numbers.
+
+eg:-    any_namehere(2,6)
+
+
+//We will get output in console.
